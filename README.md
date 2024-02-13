@@ -1,2 +1,9 @@
 # CodeAlpha_Titanic-Classification
-system which tells whether the person will be save from sinking.
+system which tells whether the person will be saved from sinking.
+used four classifiers:
+1- logistic regression
+2- SVM
+3- decision tree
+4- random forests
+the dataset was split into 80:20 ratio (train:test)
+the decision tree has the highest accuracy with 81.
